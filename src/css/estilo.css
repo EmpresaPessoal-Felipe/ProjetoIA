@@ -1,0 +1,36 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+ background-color: black;
+}
+
+img{
+    display: block;
+    max-width: 100%;
+    min-width: 100%;
+  
+}
+header{
+    color: rgb(62, 158, 202);
+    letter-spacing: 5px;
+    text-align: center;
+    font-size: 2.5rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+@media(width <=1150px) {
+
+}
+
+#h2-inicial {
+    color: white;
+    text-align: center;
+    font-size: 1.8rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 3%;
+    margin-bottom: 6%;
+
+}
