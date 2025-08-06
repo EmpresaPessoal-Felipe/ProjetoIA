@@ -12,8 +12,9 @@ img{
   
 }
 header{
-    color: rgb(62, 158, 202);
+    color: rgb(255, 255, 255);
     letter-spacing: 5px;
+    text-shadow:
     text-align: center;
     font-size: 2.5rem;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
